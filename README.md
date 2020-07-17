@@ -19,7 +19,7 @@
 |寒雁周刊|前端、WEB(Fundebug 创始人)|https://www.yuque.com/kiwenlau/hanyan_weekly|
 |FEX百度|前端|http://fex.baidu.com/|
 |阿里数据前端|前端精读周刊|https://github.com/dt-fe/weekly|
-|zenany|前端、WEB|https://github.com/zenany/weekly|
+|Zenany Weekly|前端、WEB|https://github.com/zenany/weekly|
 |薄荷前端周刊|前端、WEB|https://github.com/BooheeFE/weekly|
 |JavaScript Weekly|前端、JS|https://javascriptweekly.com/issues|
 |50weekly|前端、WEB|https://github.com/ihtml5/50weekly|
@@ -29,6 +29,7 @@
 |React Digest|React|https://reactdigest.net/digests|
 |Node Weekly|Node.JS|https://nodeweekly.com/issues|
 |Better Dev Link|become a better developer|https://betterdev.link/|
+|Web Design Weekly|Web Design|https://web-design-weekly.com/|
 
 ### 月刊
 |名稱|說明|URL|
