@@ -1,4 +1,4 @@
-# Frontend || Developer Weekly
+# Frontend || Develop Collection
 
 ### 日刊
 |名稱|說明|URL|
