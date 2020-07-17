@@ -19,6 +19,7 @@
 |薄荷前端周刊|前端、WEB|https://github.com/BooheeFE/weekly|
 |JavaScript Weekly|前端、JS|https://javascriptweekly.com/issues|
 |50weekly|前端、WEB|https://github.com/ihtml5/50weekly|
+|Frontend Focus|前端、WEB|https://frontendfoc.us/issues/449|
 |React Newsletter|React|https://ui.dev/newsletters/react/|
 |React Status|React|https://react.statuscode.com/issues|
 |React Digest|React|https://reactdigest.net/digests|
@@ -28,5 +29,6 @@
 ### 其它
 |名稱|說明|URL|
 |--|--|--|
+|大前端技术汇总|前端技术收集|https://github.com/gauseen/blog/issues/4|
 |DevURLs|Developer News|https://devurls.com/|
 |awesome-weekly|總匯|https://github.com/jondot/awesome-weekly|
