@@ -16,7 +16,7 @@
 |科技爱好者周刊|阮一峰，每周五发布|https://github.com/ruanyf/weekly|
 |印记中文周刊|前端、JS|https://weekly.docschina.org/javascript/|
 |码农周刊|大綜合的IT技術周刊|https://weekly.manong.io/issues/|
-|寒雁周刊|前端、WEB(Fundebug 创始人)|https://weekly.75team.com/|
+|寒雁周刊|前端、WEB(Fundebug 创始人)|https://www.yuque.com/kiwenlau/hanyan_weekly|
 |FEX百度|前端|http://fex.baidu.com/|
 |阿里数据前端|前端精读周刊|https://github.com/dt-fe/weekly|
 |zenany|前端、WEB|https://github.com/zenany/weekly|
