@@ -10,7 +10,7 @@
 |--|--|--|
 |科技爱好者周刊|阮一峰，每周五发布|https://github.com/ruanyf/weekly|
 |奇舞周刊|前端、WEB|https://weekly.75team.com/|
-|JS周刊|前端|https://weekly.docschina.org/javascript/|
+|印记中文周刊|前端、JS|https://weekly.docschina.org/javascript/|
 |FEX百度|前端|http://fex.baidu.com/|
 |阿里数据前端|前端精读周刊|https://github.com/dt-fe/weekly|
 |zenany|前端、WEB|https://github.com/zenany/weekly|
