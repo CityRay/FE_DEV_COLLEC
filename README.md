@@ -15,7 +15,7 @@
 |前端开发周报|前端开发博客，有周報與日報|http://caibaojian.com/c/weekly|
 |科技爱好者周刊|阮一峰，每周五发布|https://github.com/ruanyf/weekly|
 |印记中文周刊|前端、JS|https://weekly.docschina.org/javascript/|
-|码农周刊|綜合前端、DEV、WEB|https://weekly.manong.io/issues/|
+|码农周刊|大綜合的IT技術周刊|https://weekly.manong.io/issues/|
 |FEX百度|前端|http://fex.baidu.com/|
 |阿里数据前端|前端精读周刊|https://github.com/dt-fe/weekly|
 |zenany|前端、WEB|https://github.com/zenany/weekly|
