@@ -38,6 +38,7 @@
 ### 其它
 |名稱|說明|URL|
 |--|--|--|
+|Front-End RSS|每天定时抓取最新前端技术文章|https://front-end-rss.now.sh/|
 |大前端技术汇总|前端技术收集|https://github.com/gauseen/blog/issues/4|
 |DevURLs|Developer News|https://devurls.com/|
 |awesome-weekly|總匯|https://github.com/jondot/awesome-weekly|
