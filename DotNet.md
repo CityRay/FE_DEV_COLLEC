@@ -1,3 +1,10 @@
+# Dot Net
+
+### Tutorials
+|名稱|說明|URL|
+|--|--|--|
+|Dot Net Core Tutorials|Be Versatile with Dotnet Core|https://dottutorials.net/|
+
 ### 其它
 |名稱|說明|URL|
 |--|--|--|
