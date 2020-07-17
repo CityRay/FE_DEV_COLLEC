@@ -41,6 +41,7 @@
 |DevURLs|Developer News|https://devurls.com/|
 |awesome-weekly|總匯|https://github.com/jondot/awesome-weekly|
 |30 seconds of code|Short code snippets 多語言|https://www.30secondsofcode.org/|
+|JS GitHub 中文榜|JS CN 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript|
 
 ### React
 |名稱|說明|URL|
