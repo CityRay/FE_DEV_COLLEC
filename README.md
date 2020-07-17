@@ -1,4 +1,4 @@
-# FE_Weekly
+# Developer Weekly
 
 ### 日刊
 |名稱|說明|URL|
