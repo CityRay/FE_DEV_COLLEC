@@ -9,6 +9,7 @@
 ### 周刊
 |名稱|說明|URL|
 |--|--|--|
+|TechBridge Weekly 技術週刊|前端、WEB|http://weekly.techbridge.cc/|
 |Frontend Weekly|前端、WEB|https://frontendweekly.co/|
 |奇舞周刊|前端、WEB|https://weekly.75team.com/|
 |前端周刊|前端、WEB(tower1229/frontend-weekly)|https://frontend-weekly.com/|
@@ -27,6 +28,7 @@
 |Node Weekly|Node.JS|https://nodeweekly.com/issues|
 |Better Dev Link|become a better developer|https://betterdev.link/|
 |Web Design Weekly|Web Design|https://web-design-weekly.com/|
+|TNFE-Weekly|前端、WEB|https://github.com/Tnfe/TNFE-Weekly|
 
 ### 月刊
 |名稱|說明|URL|
