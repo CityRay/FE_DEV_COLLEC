@@ -45,7 +45,6 @@
 |awesome-weekly|總匯|https://github.com/jondot/awesome-weekly|
 |30 seconds of code|Short code snippets 多語言|https://www.30secondsofcode.org/|
 |JS GitHub 中文榜|JS CN 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript|
-|前端面试每日3+1|以前端面试题来驱动学习|https://github.com/haizlin/fe-interview|
 
 ### React
 |名稱|說明|URL|
@@ -53,3 +52,9 @@
 |React Newsletter|React|https://ui.dev/newsletters/react/|
 |React Status|React|https://react.statuscode.com/issues|
 |React Digest|React|https://reactdigest.net/digests|
+
+### 知識
+|名稱|說明|URL|
+|--|--|--|
+|前端面试每日3+1|以前端面试题来驱动学习|https://github.com/haizlin/fe-interview|
+|Daily-Interview-Question|前端面试题|https://github.com/Advanced-Frontend/Daily-Interview-Question|
