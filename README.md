@@ -57,4 +57,4 @@
 |名稱|說明|URL|
 |--|--|--|
 |前端面试每日3+1|以前端面试题来驱动学习|https://github.com/haizlin/fe-interview|
-|Daily-Interview-Question|前端面试题|https://github.com/Advanced-Frontend/Daily-Interview-Question|
+|Daily-Interview-Question|每天一道前端面试|https://github.com/Advanced-Frontend/Daily-Interview-Question|
