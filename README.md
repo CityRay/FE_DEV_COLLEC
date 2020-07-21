@@ -29,6 +29,7 @@
 |Better Dev Link|become a better developer|https://betterdev.link/|
 |Web Design Weekly|Web Design|https://web-design-weekly.com/|
 |TNFE-Weekly 腾讯团队|前端、WEB|https://github.com/Tnfe/TNFE-Weekly|
+|阿里妈妈前端快爆|前端新鲜事|https://zhuanlan.zhihu.com/mm-fe|
 
 ### 月刊
 |名稱|說明|URL|
