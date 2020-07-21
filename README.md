@@ -28,7 +28,7 @@
 |Node Weekly|Node.JS|https://nodeweekly.com/issues|
 |Better Dev Link|become a better developer|https://betterdev.link/|
 |Web Design Weekly|Web Design|https://web-design-weekly.com/|
-|TNFE-Weekly|前端、WEB|https://github.com/Tnfe/TNFE-Weekly|
+|TNFE-Weekly 腾讯团队|前端、WEB|https://github.com/Tnfe/TNFE-Weekly|
 
 ### 月刊
 |名稱|說明|URL|
