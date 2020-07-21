@@ -5,7 +5,7 @@
 |--|--|--|
 |每日时报|前端、WEB|https://wubaiqing.github.io/zaobao/|
 |favorite-link|每日收集开源项目|https://www.guanguans.cn/favorite-link/|
-
+|前端开发日报|前端开发博客日報|http://caibaojian.com/c/news|
 ### 周刊
 |名稱|說明|URL|
 |--|--|--|
@@ -13,7 +13,7 @@
 |Frontend Weekly|前端、WEB|https://frontendweekly.co/|
 |奇舞周刊|前端、WEB|https://weekly.75team.com/|
 |前端周刊|前端、WEB(tower1229/frontend-weekly)|https://frontend-weekly.com/|
-|前端开发周报|前端开发博客，有周報與日報|http://caibaojian.com/c/weekly|
+|前端开发周报|前端开发博客周報|http://caibaojian.com/c/weekly|
 |科技爱好者周刊|阮一峰，每周五发布|https://github.com/ruanyf/weekly|
 |印记中文周刊|前端、JS|https://weekly.docschina.org/javascript/|
 |码农周刊|大綜合的IT技術周刊|https://weekly.manong.io/issues/|
