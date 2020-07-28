@@ -43,7 +43,6 @@
 |大前端技术汇总|前端技术收集|https://github.com/gauseen/blog/issues/4|
 |DevURLs|Developer News|https://devurls.com/|
 |awesome-weekly|總匯|https://github.com/jondot/awesome-weekly|
-|awesome-FE(大前端)|技术收集|https://github.com/gauseen/blog/issues/4|
 |30 seconds of code|Short code snippets 多語言|https://www.30secondsofcode.org/|
 |JS GitHub 中文榜|JS CN 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript|
 
