@@ -22,3 +22,4 @@
 |名稱|說明|URL|
 |--|--|--|
 |C# GitHub 中文榜|.net cn 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/master/README-Part2.md|
+|Awesome .NET Core|awesome-dotnet-core中文版|https://github.com/jasonhua95/awesome-dotnet-core|
