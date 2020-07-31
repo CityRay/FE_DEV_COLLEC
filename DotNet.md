@@ -5,6 +5,12 @@
 |--|--|--|
 |Dot Net Core Tutorials|Be Versatile with Dotnet Core|https://dottutorials.net/|
 
+### Blogs
+|名稱|說明|URL|
+|--|--|--|
+|Top 60 DotNet Blogs & Websites for .NET Developers To Follow in 2020|Dotnet Blogs|https://blog.feedspot.com/dotnet_blogs/|
+|Meziantou's blog|about Microsoft technologies|https://www.meziantou.net/archives.htm|
+
 ### 其它
 |名稱|說明|URL|
 |--|--|--|
