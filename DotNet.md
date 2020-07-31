@@ -5,6 +5,11 @@
 |--|--|--|
 |Dot Net Core Tutorials|Be Versatile with Dotnet Core|https://dottutorials.net/|
 
+### 周刊
+|名稱|說明|URL|
+|--|--|--|
+|dotNET Weekly|ASP.NET|https://www.dotnetweekly.com/|
+
 ### Blogs
 |名稱|說明|URL|
 |--|--|--|
