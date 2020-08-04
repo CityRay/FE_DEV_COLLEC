@@ -17,6 +17,7 @@
 |Top 60 DotNet Blogs & Websites for .NET Developers To Follow in 2020|Dotnet Blogs|https://blog.feedspot.com/dotnet_blogs/|
 |Meziantou's blog|about Microsoft technologies|https://www.meziantou.net/archives.htm|
 |Talking Dotnet|talks about ASP.Net|https://www.talkingdotnet.com/|
+|.NET Core Tutorialst|News & Tutorialst|https://dotnetcoretutorials.com/|
 
 ### 其它
 |名稱|說明|URL|
