@@ -39,6 +39,7 @@
 ### 其它
 |名稱|說明|URL|
 |--|--|--|
+|InfoQ 前端|綜合前端文章|https://www.infoq.cn/topic/33|
 |Front-End RSS|每天定时抓取最新前端技术文章|https://front-end-rss.now.sh/|
 |大前端技术汇总|前端技术收集|https://github.com/gauseen/blog/issues/4|
 |DevURLs|Developer News|https://devurls.com/|
