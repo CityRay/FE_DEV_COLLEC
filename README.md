@@ -47,6 +47,11 @@
 |30 seconds of code|Short code snippets 多語言|https://www.30secondsofcode.org/|
 |JS GitHub 中文榜|JS CN 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript|
 
+### CSS
+|名稱|說明|URL|
+|--|--|--|
+|10 个 GitHub 上超火的 CSS 奇技淫巧项目|CSS|https://juejin.cn/post/6898482129592647693|
+
 ### React
 |名稱|說明|URL|
 |--|--|--|
