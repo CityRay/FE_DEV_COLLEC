@@ -66,3 +66,9 @@
 |Daily-Interview-Question|每天一道前端面试|https://github.com/Advanced-Frontend/Daily-Interview-Question|
 |「牛客网」45道JS能力测评经典题总结|js 基础检测题|https://zhuanlan.zhihu.com/p/158008493|
 |LeetcodeTop|汇总互联网公司技术算法题(afatcoder)|https://github.com/afatcoder/LeetcodeTop|
+
+### 其它 Blog
+|名稱|說明|URL|
+|--|--|--|
+|小蘿蔔丁 Posts|Blog|https://www.xlbd.me/posts/|
+|Jake Zhang的个人博客|Blog|https://github.com/JakeZhangZJK/myBlog|
