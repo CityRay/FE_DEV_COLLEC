@@ -18,6 +18,7 @@
 |Meziantou's blog|about Microsoft technologies|https://www.meziantou.net/archives.htm|
 |Talking Dotnet|talks about ASP.Net|https://www.talkingdotnet.com/|
 |.NET Core Tutorialst|News & Tutorialst|https://dotnetcoretutorials.com/|
+|Best 20 C# & .NET Blogs|2020|https://dev.to/sebnilsson/best-20-c-net-blogs-14n6|
 
 ### 其它
 |名稱|說明|URL|
