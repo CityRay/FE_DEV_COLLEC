@@ -47,6 +47,7 @@
 |30 seconds of code|Short code snippets 多語言|https://www.30secondsofcode.org/|
 |JS GitHub 中文榜|JS CN 相關技術|https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript|
 |整理一批正在学、正在看、正在用，前端工具(掘金)|前端|https://juejin.cn/post/6911251933386768391|
+|蒲公英·JELLY技术周刊|京东·凹凸实验室维护整理的技术周刊|https://github.com/o2team/tech-weekly|
 
 ### CSS
 |名稱|說明|URL|
