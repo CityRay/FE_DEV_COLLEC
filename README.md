@@ -15,7 +15,7 @@
 |前端周刊|前端、WEB(tower1229/frontend-weekly)|https://frontend-weekly.com/|
 |前端开发周报|前端开发博客周報|http://caibaojian.com/c/weekly|
 |科技爱好者周刊|阮一峰，每周五发布|https://github.com/ruanyf/weekly|
-|印记中文周刊|前端、JS|https://weekly.docschina.org/javascript/|
+|印记中文周刊|前端、JS|[公众号](https://wemp.app/accounts/8396226c-f14e-4566-b0f9-51c006de9804) https://docschina.org/weekly/js/|
 |码农周刊|大綜合的IT技術周刊|https://weekly.manong.io/issues/|
 |寒雁周刊|前端、WEB(Fundebug 创始人)|https://www.yuque.com/kiwenlau/hanyan_weekly|
 |FEX百度|前端|http://fex.baidu.com/|
